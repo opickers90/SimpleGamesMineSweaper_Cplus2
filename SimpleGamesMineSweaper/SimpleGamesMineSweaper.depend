@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1533427794 source:/home/taufik/workspace/C++/SimpleGamesMineSweaper/SimpleGamesMineSweaper/main.cpp
+	<SFML/Graphics.hpp>
+	<ctime>
+
